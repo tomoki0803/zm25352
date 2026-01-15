@@ -1,3 +1,3 @@
 function changeToImage()
 {const element=document.getElementById("text");
-element.innerHTML='<img src="image/サッカー.jpg" width="200">';} 
+element.innerHTML='<img src="image/soccer.jpg" width="200">';} 
